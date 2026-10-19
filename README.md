@@ -3,11 +3,16 @@
 **Applied AI & Business Systems Architecture**  
 Washington, DC area
 
-Consultant at Deloitte Consulting LLP. About 5 years designing and deploying AI-enabled and automated systems. He turns loosely defined business problems into scoped requirements, integration architectures, and deployed tools, using Python, LLMs (Gemini), Microsoft Power Platform, and AI-assisted development. The work emphasizes evaluation and governance: benchmarking model output against human review, explicit scoring rules, and human approval gates.
+Consultant at Deloitte Consulting LLP. About 5 years designing and deploying business systems and automation, most recently AI-enabled. I turn loosely defined business problems into scoped requirements, integration architectures, and deployed tools, using Python, LLMs (Gemini), Microsoft Power Platform, and AI-assisted development. I emphasize evaluation and governance: benchmarking model output against human review, explicit scoring rules, and human approval gates.
 
 ## Applied AI
 
-Led design, calibration, and tooling for an AI-assisted (Gemini) method that scores applied-AI qualifications against a 100-point framework. Wrote the model instructions, benchmarked results against a reference human review, closed a 22-point gap with explicit scoring rules, and built the results database, cutting effort from about 96 analyst hours to 4 across 48 qualifications.
+I led design, calibration, and tooling for an AI-assisted (Gemini) method that scores applied-AI qualifications against a 100-point framework. I wrote the model instructions, benchmarked results against a reference human review, closed a 22-point gap with explicit scoring rules, and built the results database, cutting effort from about 96 analyst hours to 4 across 48 qualifications.
+
+## Education
+
+- B.S. MIS, Penn State Smeal
+- Palantir Foundry / AIP builder coursework (2026)
 
 ## Skills
 
