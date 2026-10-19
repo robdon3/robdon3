@@ -11,7 +11,7 @@ I led design, calibration, and tooling for an AI-assisted (Gemini) method that s
 
 ## Education
 
-- B.S. MIS, Penn State Smeal
+- B.S. Management Information Systems, Minor in International Business, Penn State Smeal
 - Palantir Foundry / AIP builder coursework (2026)
 
 ## Skills
