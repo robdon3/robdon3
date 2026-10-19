@@ -24,4 +24,4 @@ Python, SQL, VBA, Gemini, LLM instruction design, AI output evaluation and bench
 ## Contact
 
 Email: [rwdonohue3@gmail.com](mailto:rwdonohue3@gmail.com)  
-LinkedIn: TODO — replace this line with the public profile URL
+LinkedIn: [linkedin.com/in/robertdonohue3](https://www.linkedin.com/in/robertdonohue3/)
